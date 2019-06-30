@@ -1,0 +1,39 @@
+Task 1 [Simple Intrest]
+
+https://jsfiddle.net/L1ha9mc4/
+
+Task 2 [Print Fullname]
+
+https://jsfiddle.net/68apq7vm/
+
+Task  3 [Calculator]
+
+https://jsfiddle.net/2ruys1Lw/
+
+Task  4 [Display Month]
+
+https://jsfiddle.net/wjzsbtd8/
+
+Task  5 [Five Number Addition]
+
+https://jsfiddle.net/9253farp/2/
+
+Task  6 [Return Current Month]
+
+https://jsfiddle.net/4gm2wrpo/3/
+
+Task  7 [Compund Intrest]
+
+https://jsfiddle.net/kh0825mv/
+
+Task  8 [Simple Intrest]
+
+https://jsfiddle.net/L1ha9mc4/
+
+Task  9  [HTML Assignments]
+
+https://jsfiddle.net/w87aynbs/
+
+Task  10 [Log In Page]
+
+https://jsfiddle.net/m5f1ybva/14/
